@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattStarakiewicz/expressjs-app.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Matt Star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattStarakiewicz/expressjs-app/issues"
+  },
+  "homepage": "https://github.com/MattStarakiewicz/expressjs-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4"
+  }
+}
